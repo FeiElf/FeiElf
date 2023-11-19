@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @FeiElf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FeiElf/FeiElf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Mobile and Web development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on more app development projects
+- 📫 How to reach me email: yifeid3@gmail.com
